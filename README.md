@@ -7,8 +7,6 @@ This will be your main place for mentorship-related materials.
 - **Shares knowledge, experience, and advice**
 - **Relationship should be based on mutual trust and respect that offer personal and professional advantages for both parties**
 
----
-
 | Benefits for Mentee        | Benefits for Mentor |
 | ------------- |-------------|
 | Gain advice from mentors in the industry | Build leadership skills  | 
