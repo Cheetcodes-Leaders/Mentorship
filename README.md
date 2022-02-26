@@ -1,11 +1,13 @@
 #  📚 **V3-Mentorship-Guidelines**
 This will be your main place for mentorship-related materials.
 
+---
+
 ## 💡 **Purpose of mentors**
 - **Shares knowledge, experience, and advice**
 - **Relationship should be based on mutual trust and respect that offer personal and professional advantages for both parties**
 
-<br>
+---
 
 | Benefits for Mentee        | Benefits for Mentor |
 | ------------- |-------------|
@@ -14,6 +16,7 @@ This will be your main place for mentorship-related materials.
 | Develop knowledge/skills regarding interview process  | Learn new perspectives  |   
 | Build network| Give back to underrepresented communities |
 
+---
 
 ## 🎗️ **Improve**
 
@@ -51,12 +54,16 @@ This will be your main place for mentorship-related materials.
   
 </details>
 
+--- 
+
 ## ✅ **Daily Check-In Form**
 - How are you feeling today?
   - Super Awesome, Pretty Good, Completely Okay, Somewhat Bad, Really Terrible 
 - Did you do something for yourself not coding-related today? 
   - Yes or No 
 - Optional Comment Box 
+
+---
 
 ## 🆘 **Help Desk**
 
@@ -82,8 +89,9 @@ This will be your main place for mentorship-related materials.
   
 </details>
 
+---
 
-## 💻 **How to helping mentees understand algo problem**
+## 💻 **Helping mentees understand algo problem**
 - Provide resources for each algo question 
   - Videos, articles, websites 
 - If additional clarification is needed: 
@@ -92,5 +100,6 @@ This will be your main place for mentorship-related materials.
   - Contact the technical help desk 
   - Move on to the next problem and revisit    
 
+--- 
 
 ## 📚 **Helpful Resources/Links**
