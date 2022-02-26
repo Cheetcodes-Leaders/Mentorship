@@ -54,10 +54,10 @@ This will be your main place for mentorship-related materials.
 
 --- 
 
-## ✅ **Daily Check-In Form**
+## ✅ **Mentee Daily Check-In Form**
 - How are you feeling today?
   - Super Awesome, Pretty Good, Completely Okay, Somewhat Bad, Really Terrible 
-- Did you do something for yourself not coding-related today? 
+- Did you do something for yourself not coding-related yesterday? 
   - Yes or No 
 - Optional Comment Box 
 
@@ -101,3 +101,8 @@ This will be your main place for mentorship-related materials.
 --- 
 
 ## 📚 **Helpful Resources/Links**
+
+** When should helpdesk hours be? 
+- AM / PM
+- every other day or twice a week?  
+- should we have tech help desk?
