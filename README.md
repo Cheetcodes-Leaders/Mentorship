@@ -100,9 +100,3 @@ This will be your main place for mentorship-related materials.
 
 --- 
 
-## 📚 **Helpful Resources/Links**
-
-** When should helpdesk hours be? 
-- AM / PM
-- every other day or twice a week?  
-- should we have tech help desk?
