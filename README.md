@@ -21,8 +21,8 @@ This will be your main place for mentorship-related materials.
 ## 📅 **Schedule**
 - **One hour on Saturday, if possible**
 - **If you are unable to meet on Saturday, reschedule an hour to meet your group during the week, and inform us in the mentor channel!**
-- **Structure of group meeting: Open conversation with mentees regarding what they would like to discuss.
-- **Provide a calendly link for mentees to book one-on-one sessions throughout the program.
+- **Structure of group meeting: Open conversation with mentees regarding what they would like to discuss.**
+- **Provide a calendly link for mentees to book one-on-one sessions throughout the program.**
 ---
 
 ## 🎗️ **Improve**
@@ -71,7 +71,7 @@ This will be your main place for mentorship-related materials.
 
 ---
 
-## 🆘 **Help Desk**
+## 🆘 **Blockers**
 
 <details><summary>Technical</summary>
   
