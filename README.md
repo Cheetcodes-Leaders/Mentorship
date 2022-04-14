@@ -16,7 +16,6 @@ This will be your main place for mentorship-related materials.
 
 ---
 
----
 
 ## 📅 **Schedule**
 - **One hour on Saturday, if possible**
