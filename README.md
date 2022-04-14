@@ -102,7 +102,6 @@ This will be your main place for mentorship-related materials.
 - If additional clarification is needed: 
   - Independent research for additional resources 
     - Shared with cohort if useful 
-  - Contact the technical help desk 
   - Move on to the next problem and revisit    
 
 --- 
