@@ -11,9 +11,18 @@ This will be your main place for mentorship-related materials.
 | ------------- |-------------|
 | Gain advice from mentors in the industry | Build leadership skills  | 
 | Improve communication skills  | Improve communication skills  |   
-| Develop knowledge/skills regarding interview process  | Learn new perspectives  |   
+| Develop knowledge/skills regarding the interview process  | Learn new perspectives  |   
 | Build network| Give back to underrepresented communities |
 
+---
+
+---
+
+## 📅 **Schedule**
+- **One hour on Saturday, if possible**
+- **If you are unable to meet on Saturday, reschedule an hour to meet your group during the week, and inform us in the mentor channel!**
+- **Structure of group meeting: Open conversation with mentees regarding what they would like to discuss.
+- **Provide a calendly link for mentees to book one-on-one sessions throughout the program.
 ---
 
 ## 🎗️ **Improve**
@@ -31,7 +40,6 @@ This will be your main place for mentorship-related materials.
 <details><summary>Emotional Support</summary>
   
 - Allow mentees to schedule one on one with mentors as needed 
-- Contact Mental Help Desk 
   
 </details>
 
@@ -47,7 +55,7 @@ This will be your main place for mentorship-related materials.
   - Exercise 
   - Play with pets 
 - Get enough sleep 
-- Connect mental help desk 
+- Contact Mentor
 - Talk to friends/family
   
 </details>
@@ -81,7 +89,7 @@ This will be your main place for mentorship-related materials.
   - In various stages of the interview rounds 
     - Multiple recruiters reaching out, coding challenges, technicals rounds, onsite, interviews lined up, etc...
   - Previous coding projects
-  - Committing to a better future with ample of job opportunities and flexibility 
+  - Committing to a better future with ample job opportunities and flexibility 
   - Elaborate challenges mentor endured during the job process
   - Provide suggestions (refer back to the `Improve Head Space`)
   
